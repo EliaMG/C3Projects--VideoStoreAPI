@@ -1,0 +1,26 @@
+[
+    {
+        "checkout_date": "2015-09-14",
+        "due_date": "2015-09-25",
+        "return_date": null,
+        "overdue": 0,
+        "movie_id": 2,
+        "customer_id": 1
+    },
+    {
+        "checkout_date": "2015-09-10",
+        "due_date": "2015-09-14",
+        "return_date": null,
+        "overdue": 1,
+        "movie_id": 4,
+        "customer_id": 1
+    },
+    {
+        "checkout_date": "2015-09-08",
+        "due_date": "2015-09-10",
+        "return_date": "2015-09-09",
+        "overdue": 0,
+        "movie_id": 3,
+        "customer_id": 1
+    }
+]
